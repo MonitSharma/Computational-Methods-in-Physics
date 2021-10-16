@@ -1,4 +1,4 @@
-# EqStrigMovMat.py:  Animated leapfrog for string wi MatPlotLib
+
 
 from numpy import *
 import numpy as np, matplotlib.pyplot as plt
