@@ -13,9 +13,9 @@ xi = np.zeros((101,3), float)                  # Declaration
 k = range(0,101)
 
 def Initialize():                            # Initial conditions
-   for i in range(0, 81):
+   for i in range(0, 51):
        xi[i, 0] = 0.00125*i         
-   for i in range (81, 101):
+   for i in range (51, 101):
        xi[i, 0] = 0.1 - 0.005*(i - 80)          
  
 def animate(num):                                
