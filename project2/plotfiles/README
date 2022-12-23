@@ -1,0 +1,16 @@
+# This folder contains the plotfiles of Project 2
+
+plot6.py:
+---------
+Makes the plot of the relation between the number of Jacobi rotations and the size, N, of
+the symmetrical tridiagonal matrix and saves it in the file:
+
+*../figures/rotations_vs_N.pdf*
+
+plot7.py:
+------------------
+Makes a plot of both the analytical and discretized approximated eigenvectors vs xhat and saves the results
+for matrices of sixes N=10 and N=100 in pdf files named:
+
+*../figures/x_vs_eigvecn=10.pdf* 
+*../figures/x_vs_eigvecn=100.pdf*
