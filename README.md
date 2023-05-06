@@ -21,6 +21,7 @@ The repository is organized into the following sections:
 | 7.    | Integrals and Derivatives  |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-integrals-and-derivatives-7cd79044a1d2)    |
 | 8.    | Interpolation  |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-interpolation-7f6b62a15854)    |
 | 9.    | Fourier Transform |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-fourier-transform-1f51ce9152f7)    |
+| 10.    | Random Numbers |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-random-numbers-240ae7c4a78c)    |
 
 
 ### 2. Intermediate topics in Computational Physics
