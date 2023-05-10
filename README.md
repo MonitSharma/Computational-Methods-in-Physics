@@ -24,6 +24,7 @@ The repository is organized into the following sections:
 | 10.    | Random Numbers |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-random-numbers-240ae7c4a78c)    |
 | 11.    | Introduction to Data Analysis |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-introduction-to-data-analysis-6e97f7e03af1)    |
 | 12.    | Bayes Theorem |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-bayes-theorem-fdeb3af01f7)    |
+| 13.    | Optimization |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-optimization-3697c079b6fa)    |
 
 
 
