@@ -25,7 +25,9 @@ The repository is organized into the following sections:
 | 11.    | Introduction to Data Analysis |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-introduction-to-data-analysis-6e97f7e03af1)    |
 | 12.    | Bayes Theorem |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-bayes-theorem-fdeb3af01f7)    |
 | 13.    | Optimization |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-optimization-3697c079b6fa)    |
-
+| 14.    | ODE Euler Method |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-ordinary-differential-equations-d48cc35cccf)    |
+| 15.    | ODE Predictor Corrector and RK4 |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-ordinary-differential-equations-b512c0e928b3)    |
+| 16.    | ODE Python package |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-ordinary-differential-equation-390a743c5198)    |
 
 
 ### 2. Intermediate topics in Computational Physics
