@@ -28,6 +28,9 @@ The repository is organized into the following sections:
 | 14.    | ODE Euler Method |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-ordinary-differential-equations-d48cc35cccf)    |
 | 15.    | ODE Predictor Corrector and RK4 |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-ordinary-differential-equations-b512c0e928b3)    |
 | 16.    | ODE Python package |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-ordinary-differential-equation-390a743c5198)    |
+| 17.    | PDE - Laplace Equation |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-partial-differential-equations-6df358a8643e)    |
+| 18.    | PDE - Heat Equation |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-partial-differential-equations-dd8b6bfa8dce)    |
+| 19.    | PDE - Wave Equation |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-partial-differential-equations-2b5054115c0e)    |
 
 
 ### 2. Intermediate topics in Computational Physics
