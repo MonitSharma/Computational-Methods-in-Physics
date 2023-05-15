@@ -8,7 +8,7 @@ Welcome to the "Computational Methods in Physics" GitHub repository! This reposi
 ## Contents
 The repository is organized into the following sections:
 
-### 1. Getting Started with Python for Physics
+###  Lecture Notes/Articles
 
 | Lecture No. | Title | Medium |
 |----------|----------|----------|
@@ -31,14 +31,11 @@ The repository is organized into the following sections:
 | 17.    | PDE - Laplace Equation |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-partial-differential-equations-6df358a8643e)    |
 | 18.    | PDE - Heat Equation |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-partial-differential-equations-dd8b6bfa8dce)    |
 | 19.    | PDE - Wave Equation |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-partial-differential-equations-2b5054115c0e)    |
+| 20.    | Ising Model |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-ising-model-343a5fd1df11)    |
+| 21.    | Schrodinger Equation |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-physics-with-python-quantum-mechanics-9203eb2c27bd)    |
 
 
-### 2. Intermediate topics in Computational Physics
- ...
 
-### 3. Advanced Computational Physics
-
-...
 
 ## Contribution
 Contributions to this repository are welcome! If you have any suggestions, bug fixes, or additional notebooks that you would like to contribute, please follow these steps:
