@@ -43,15 +43,15 @@ The repository is organized into the following sections:
 ## Contribution
 Contributions to this repository are welcome! If you have any suggestions, bug fixes, or additional notebooks that you would like to contribute, please follow these steps:
 
-1.Fork the repository to your GitHub account.
+1. Fork the repository to your GitHub account.
 
-2.Create a new branch for your contribution:
+2. Create a new branch for your contribution:
 
-3.Make your changes and commit them:
+3. Make your changes and commit them:
 
-4.Push the changes to your forked repository:
+4. Push the changes to your forked repository:
 
-5.Open a pull request on the main repository. Provide a clear description of your contribution, including the purpose and any relevant details.
+5. Open a pull request on the main repository. Provide a clear description of your contribution, including the purpose and any relevant details.
 
 Please ensure that your contributions align with the goals and themes of this repository. We appreciate your efforts in enhancing the learning experience for the community.
 
